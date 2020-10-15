@@ -23,5 +23,5 @@ And in another terminal tab
 $ yarn serve
 ```
 
-- http://localhost:8080/rescript
-- http://localhost:8080/javascript
+- http://localhost:8080/src/rescript
+- http://localhost:8080/src/javascript
